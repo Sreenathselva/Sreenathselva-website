@@ -1,7 +1,7 @@
 .topContainer{
     padding: 100px 100px 0 100px;
     background-color: #e4f9f5;
-   width:100000px;
+   
     position: relative;
 }
 body{
@@ -46,13 +46,11 @@ p{
         
          padding-top: 100px;
          padding-bottom: 50px;
-    width:100000px;
 }
 .bottom-container{
          background-color: #66c0be;
         padding: 20px 0 20px;
          line-height: 2;
-    width:100000px;
 }
 .bottom-Cloud{
     position: absolute;
