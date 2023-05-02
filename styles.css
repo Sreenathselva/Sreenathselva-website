@@ -153,3 +153,26 @@ hr{
     
   }
 
+
+
+/****Making it responsive*****/
+
+  @media(min-width:0px) and (max-width:600px){
+  
+    .Mountain{
+        width: 15.625rem;
+        height: auto;
+    }
+    .topContainer{
+       font-size: 36px;
+    }
+    .top-Cloud {
+        position: relative;
+        left: 110px;
+        width: 40%;
+    }
+    .bottom-Cloud{
+        width: 25%;
+    }
+    
+  }
