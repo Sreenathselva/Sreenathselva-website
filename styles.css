@@ -162,6 +162,8 @@ hr{
     .Mountain{
         width: 15.625rem;
         height: auto;
+            position: relative;
+    right: 40px;
     }
     .topContainer{
        font-size: 36px;
