@@ -174,5 +174,10 @@ hr{
     .bottom-Cloud{
         width: 25%;
     }
-    
+    .name{
+        font-size: 36px;
+        text-align: center;
+        position: relative;
+        right: 28px;
+    }
   }
