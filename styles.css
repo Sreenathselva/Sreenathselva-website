@@ -170,8 +170,9 @@ hr{
     }
     .top-Cloud {
         position: relative;
-        left: 110px;
         width: 40%;
+        top: 104px;
+        left: 30px;
     }
     .bottom-Cloud{
         width: 25%;
